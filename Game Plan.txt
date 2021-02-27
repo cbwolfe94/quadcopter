@@ -1,0 +1,16 @@
+//We want to write in text files because word documents are not compatible with every
+//OS.
+
+Research Phase
+1. What sensors do we need?
+2. What communication protocols do the sensors use?
+3. What microcontroller are we going to use?
+4. What kind of dev board are we going to use?
+5. What libraries will we need to program(i.e. flight controller)?
+6. What kind of motors are we going to use?
+7. How heavy will the quadcopter be?
+8. Optimal shape of quadcopter frame?
+9. Optimal size of the quadcopter?
+
+
+
